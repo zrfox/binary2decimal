@@ -20,6 +20,11 @@ input {
   color: white;
 }
 
+.error-popup {
+  display: flex;
+  
+}
+
 #interface-parent {
   display: flex;
   justify-content: center;
